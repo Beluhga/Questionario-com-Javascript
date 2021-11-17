@@ -2,4 +2,4 @@
 
 Utilizando JS puro
 
-![questionario](https://user-images.githubusercontent.com/82901722/142139307-ea1515ec-90da-4718-a798-75cacf9b99ab.gif)
+![qPwsFC](https://user-images.githubusercontent.com/82901722/142139528-8df98c82-a1d5-437f-bd8e-ad63053fe578.gif)
